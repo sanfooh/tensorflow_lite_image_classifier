@@ -1,4 +1,4 @@
-tensorflow==2.0.0-beta
+tensorflow==2.0.0-beta1
 numpy
 matplotlib
 pandas
