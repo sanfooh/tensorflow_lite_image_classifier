@@ -6,3 +6,4 @@ Cython
 opencv-python
 pillow
 lxml
+SciPy==1.2.2
